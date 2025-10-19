@@ -11,7 +11,7 @@
 
 Готова к стажировке и полноценному погружению в рабочие процессы в QA!
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@anastasiia-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anastasiya-petukhova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anastasiapetukhovaa19@gmail.com) [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="30" height="30"/>](https://t.me/anastasiapetukhovaa)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anastasiya-petukhova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anastasiapetukhovaa19@gmail.com) [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="30" height="30"/>](https://t.me/anastasiapetukhovaa)
 
 ### 🛠️ Инструменты
 
